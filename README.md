@@ -1,4 +1,4 @@
-# LUZ & ENFOQUE — Webzine de Fotografía
+# Cristhian Carvajal y Adrian Requena — Webzine de Fotografía
 
 Proyecto para abrir directamente en Visual Studio Code.
 
